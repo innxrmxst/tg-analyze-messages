@@ -1,4 +1,4 @@
-This tool analyzes your Telegram chat export history from specific chat for common words, word count and so on.
+# This tool analyzes your Telegram chat export history from specific chat for common words, word count and so on.
 
 ![alt text](https://github.com/R4v3nG/tg-analyze-messages/blob/main/example.png?raw=true)
 

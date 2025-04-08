@@ -5,7 +5,7 @@
 ## Usage:
 ```bash
 git clone https://github.com/innxrmxst/tg-analyze.git
-cd tg-analyze-messages/
+cd tg-analyze/
 python3 analyze.py
 ```
 On first prompt enter full path to the Telegram chat export, eg. '/root/result.json'.

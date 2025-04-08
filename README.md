@@ -1,4 +1,4 @@
-# Tool analyzes your Telegram chat export for a common words, word count, etc..
+# Tool analyzes your Telegram chat export for a common words, count, etc..
 
 ![alt text](https://github.com/R4v3nG/tg-analyze-messages/blob/main/example.png?raw=true)
 
